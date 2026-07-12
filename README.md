@@ -28,10 +28,10 @@ Tools
 
 ## Featured Projects
 
-🔹 Webiz Innovation - Webizinnovation.com
+🔹 Webiz Innovation - https://webizinnovation.tech
 Tech Business Website.
 
-🔹 RosebankCourt - Rosebankcourt.com
+🔹 RosebankCourt - https://rosebankcourt.com
 Real Estate Website.
 
 🔹Mandy Confectionaries - https://mandyconfectionaries.com
