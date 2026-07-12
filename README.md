@@ -28,8 +28,20 @@ Tools
 
 ## Featured Projects
 
-🔹 Webiz Innovation
+🔹 Webiz Innovation - Webizinnovation.com
 Tech Business Website.
+
+🔹 RosebankCourt - Rosebankcourt.com
+Real Estate Website.
+
+🔹Mandy Confectionaries - https://mandyconfectionaries.com
+Pastries and Snack Website
+
+🔹Sam Pec Contracting - https://sampeccontractingnig.ltd
+Industrial Project Contracting Website
+
+🔹Palbest MedGlobal - https://palbestmedglobal.com
+Wholesale Pharmaceutical Website
 
 🔹 Portfolio Website
 (Comin Soon)
